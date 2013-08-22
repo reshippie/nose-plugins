@@ -8,7 +8,7 @@ from setuptools import setup
 
 setup(
     name='browserplugin',
-    version='0.1.21',
+    version='0.1.51',
     author='Billy McCarthy',
     author_email = 'billy@redbeacon.com',
     description = 'Add browser info to output',
